@@ -1,0 +1,12 @@
+body {
+	font-size: 10px; 
+	font-weight: lighter; 
+
+}
+
+#profile {
+	height: 250px;
+	width: 250px;
+	display: flex;
+	align-items: center;
+}
